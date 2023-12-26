@@ -1,0 +1,5 @@
+version: '3'
+
+services:
+  crypto:
+    image: sergiodvz/crypto.py:1.0
